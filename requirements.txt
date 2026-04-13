@@ -1,2 +1,2 @@
-streamlit
 request
+pip install streamlit
